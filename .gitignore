@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+data/
+*.sqlite*
+coverage/
+.npm-cache/
+test-life-manager.sqlite*
